@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">OrderFood</string>
+    <string name="tenDangKy">Nhập Tên Đăng Ký</string>
+    <string name="matKhau">Mật Khẩu</string>
+    <string name="gioiTinhNam">Nam</string>
+    <string name="gioiTinhNu">Nữ</string>
+    <string name="ngaySinh">Ngày Sình</string>
+    <string name="soChungMinh">Số Chứng Minh</string>
+    <string name="btnDangKy">Đăng Ký</string>
+    <string name="btnThoat">Thoát</string>
+    <string name="tieuDe">Đăng Ký</string>
+    <string name="nhapTenDangNhap">Mời Bàn Nhập Tên Đăng Nhập</string>
+    <string name="nhapMatKhau">Mời Bàn Nhập Mật Khẩu</string>
+    <string name="themThanhCong">Thêm Thành Công</string>
+    <string name="khongThanhCong">Không Thành Công</string>
+    <string name="mo">Mở</string>
+    <string name="dong">Đống</string>
+
+</resources>

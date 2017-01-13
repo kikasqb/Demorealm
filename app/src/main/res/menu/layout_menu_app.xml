@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/strangChu"
+            android:title="Trang Chủ"
+            android:icon="@drawable/trangchu"
+            android:checked="true"
+            />
+        <item
+            android:id="@+id/sthucDon"
+            android:title="Thực Đon"
+            android:icon="@drawable/logodangnhap"
+            android:checked="true"
+            />
+        <item
+            android:id="@+id/snhanVien"
+            android:title="Nhân Viên"
+            android:icon="@drawable/nhanvien"
+            android:checked="true"
+            />
+        <item
+            android:id="@+id/sthongKe"
+            android:title="Thống Kê"
+            android:icon="@drawable/nhanvien"
+            android:checked="true" />
+        <item
+            android:id="@+id/scaiDat"
+            android:title="Cài Đặt"
+            android:icon="@drawable/caidat"
+            android:checked="true"
+            >
+
+
+        </item>
+
+    </group>
+
+</menu>
